@@ -9,4 +9,4 @@ xhofe/alist:latest
 python:alpine3.19
 mariadb
 nextcloud
-filerun
+filerun/filerun
