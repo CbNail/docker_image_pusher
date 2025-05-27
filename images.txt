@@ -11,3 +11,4 @@ mariadb
 nextcloud
 filerun/filerun:8.1
 mariadb:10.1
+Joplin
