@@ -11,7 +11,7 @@ mariadb
 nextcloud
 filerun/filerun:8.1
 mariadb:10.1
-postgres:13
+#postgres:13
 joplin/server
 neosmemo/memos
 usememos/memos
