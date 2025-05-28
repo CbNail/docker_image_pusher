@@ -14,4 +14,5 @@ mariadb:10.1
 postgres:13
 joplin/server
 neosmemo/memos
-obsidianmd/obsidian-releases
+usememos/memos
+obsidianmd/obsidian-releases:latest
