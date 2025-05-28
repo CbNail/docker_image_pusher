@@ -15,4 +15,4 @@ postgres:13
 joplin/server
 neosmemo/memos
 usememos/memos
-obsidianmd/obsidian-releases:latest
+obsidianmd/obsidian-releases
