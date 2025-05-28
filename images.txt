@@ -13,4 +13,5 @@ filerun/filerun:8.1
 mariadb:10.1
 postgres:13
 joplin/server
-obsidian-releases
+neosmemo/memos
+obsidianmd/obsidian-releases
