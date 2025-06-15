@@ -16,4 +16,7 @@ joplin/server
 neosmemo/memos
 usememos/memos
 postgres:14-alpine
+mariadb:10.6
 filerun/filerun:7.4
+afian/filerun:latest
+afian/filerun
