@@ -16,3 +16,4 @@ joplin/server
 neosmemo/memos
 usememos/memos
 postgres:14-alpine
+filerun/filerun:7.4
