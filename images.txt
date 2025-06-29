@@ -20,3 +20,4 @@ mariadb:10.6
 filerun/filerun:7.4
 afian/filerun:latest
 afian/filerun
+jeessy2/ddns-go
